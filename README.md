@@ -25,3 +25,4 @@ The goal of this project is to practice **HTML structure**, **CSS layouts**, and
 - **CSS3**
 - **Basic JavaScript** (for smooth scrolling & demo alert)
 - **Google Fonts (Poppins)**
+Author-Rabia Shahzad
